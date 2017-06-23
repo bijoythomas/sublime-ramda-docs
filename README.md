@@ -49,7 +49,8 @@ Reporting
 ---------
 Enter a ramda function
 
-![Enter a function](https://github.com/bijoythomas/sublime-mocha-test-runner/blob/master/enter_function.png)
+![Enter a function](https://github.com/bijoythomas/sublime-ramda-docs/blob/master/enter_function.png
+)
 
 And see results
-![Results](https://github.com/bijoythomas/sublime-mocha-test-runner/blob/master/results.png)
+![Results](https://github.com/bijoythomas/sublime-ramda-docs/blob/master/results.png)
