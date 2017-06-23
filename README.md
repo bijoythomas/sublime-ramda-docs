@@ -1,11 +1,10 @@
-Sublime Mocha Test Runner
+Sublime Ramda Docs
 =========================
-Runs mocha tests with the option to run specific tests or all tests in a file.
-Inspired by the mocha test runner plugin for Atom [https://github.com/TabDigital/atom-mocha-test-runner]
+Sublime may not be a full blown IDE but use this if you can't live without Ramda
 
 Requirements
 ============
-The mocha command should be available in the PATH. The plugin has been tested against python 3.5.1
+None. Well, other than Ramda :-)
 
 Installation
 ------------
