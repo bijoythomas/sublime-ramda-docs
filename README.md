@@ -1,6 +1,6 @@
 Sublime Ramda Docs
 =========================
-Sublime may not be a full blown IDE but use this if you can't live without Ramda
+Sublime may not be a full blown IDE but use this if you can't code without Ramda
 
 Requirements
 ============
