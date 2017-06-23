@@ -47,4 +47,9 @@ The plugin adds the following key bindings.
 
 Reporting
 ---------
+Enter a ramda function
 
+![Enter a function](https://github.com/bijoythomas/sublime-mocha-test-runner/blob/master/enter_function.png)
+
+And see results
+![Results](https://github.com/bijoythomas/sublime-mocha-test-runner/blob/master/results.png)
