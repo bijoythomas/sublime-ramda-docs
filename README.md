@@ -45,4 +45,6 @@ The plugin adds the following key bindings.
 ]
 ```
 
+Reporting
+---------
 
