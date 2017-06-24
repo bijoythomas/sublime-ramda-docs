@@ -3,10 +3,16 @@ from urllib.request import urlopen
 import re
 
 class RamdaDocsCommand(sublime_plugin.WindowCommand):
-  def run(self,):
-    print(self)
-    self.window.show_input_panel('Enter a ramda function', '', self.fetchDoc, None, None)
-    pass
+  def run(self):
+    window = self.window
+    view = window.active_view()
+    sel = view.sel()
+    region1 = sel[0]
+    selectionText = view.substr(region1)
+    if selectionText:
+      self.fetchDoc(selectionText)
+    else:
+      self.window.show_input_panel('Enter a ramda function', '', self.fetchDoc, None, None)
 
   def append_data(self, data):
     self.ramda_docs_view.set_read_only(False)
