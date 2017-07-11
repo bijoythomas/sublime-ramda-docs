@@ -21,8 +21,8 @@ The "Packages" directory should be located at:
 
 * Linux:
 
-    ~/.Sublime\ Text\ 3/Packages/  
-    or  
+    ~/.Sublime\ Text\ 3/Packages/
+    or
     ~/.config/sublime-text-3/Packages/
 
 * Windows:
@@ -40,14 +40,14 @@ The plugin adds the following key bindings.
 ```
 [
   {
-      "keys": ["ctrl+r"], "command": "ramda_docs"
+      "keys": ["alt+r"], "command": "ramda_docs"
   }
 ]
 ```
 
 Reporting
 ---------
-Enter a ramda function
+Use **alt+r** to enter a ramda function after highlighting a ramda function
 
 ![Enter a function](https://github.com/bijoythomas/sublime-ramda-docs/blob/master/enter_function.png
 )

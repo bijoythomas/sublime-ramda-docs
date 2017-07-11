@@ -1,5 +1,5 @@
 [
   {
-    "keys": ["ctrl+r"], "command": "ramda_docs"
+    "keys": ["alt+r"], "command": "ramda_docs"
   }
 ]
