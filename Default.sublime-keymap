@@ -1,5 +1,9 @@
 [
   {
-    "keys": ["alt+r"], "command": "ramda_docs"
+    "keys": ["alt+r"],
+    "command": "ramda_docs",
+    "context": [
+      { "key": "selector", "operator": "equal", "operand": "source.js", "match_all": true }
+    ]
   }
 ]
