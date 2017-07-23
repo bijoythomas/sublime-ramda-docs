@@ -47,10 +47,9 @@ The plugin adds the following key bindings.
 
 Reporting
 ---------
-Use **alt+r** to enter a ramda function after highlighting a ramda function
-
-![Enter a function](https://github.com/bijoythomas/sublime-ramda-docs/blob/master/enter_function.png
-)
+Use **alt+r** to enter a ramda function manually or after highlighting a ramda function
+![Screenshot](https://github.com/bijoythomas/sublime-ramda-docs/blob/master/enter_function.png)
 
 And see results
-![Results](https://github.com/bijoythomas/sublime-ramda-docs/blob/master/results.png)
+![Screenshot](https://github.com/bijoythomas/sublime-ramda-docs/blob/master/results.png)
+
